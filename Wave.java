@@ -9,7 +9,7 @@ public class Wave {
         var end = new Point(8, 7);
 
         Wave.setWave(map, start); // тест на моках
-//        Wave.findWay(map, start, end); // тест на моках
+        // Wave.findWay(map, start, end); // тест на моках
 
         map.showMap();
     }
